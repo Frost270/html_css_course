@@ -1,1 +1,1 @@
-This repository is here is for my daily update of my Full Stack Development course.
+This repository is for daily updates of my Full Stack Development course.
